@@ -2,6 +2,7 @@ Muokkaile tätä tiedostoa....
 
 
 ...ihan miten vaan...
-saöldkfjöasldkjfaösldkfjasölfdkjasödf
 
 muutos gitin kautta suoraan 
+
+muutos local version kautta 
