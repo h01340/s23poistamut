@@ -4,5 +4,4 @@ Muokkaile tätä tiedostoa....
 ...ihan miten vaan...
 
 muutos gitin kautta suoraan 
-
-muutos local version kautta 
+ja lokaalin kautta 
